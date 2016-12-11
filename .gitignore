@@ -1,0 +1,10 @@
+
+*.class
+
+*.class
+
+*.iml
+
+*.xml
+
+.idea/misc.xml
