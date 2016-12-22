@@ -46,7 +46,7 @@ public class AssocArray extends Dictionary {
 
     public Enumeration elements() {
         return values.elements();
-    }   // Test it:
+    }   // Test3 it:
 
     public static void main(String[] args) {
         AssocArray aa = new AssocArray();
